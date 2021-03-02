@@ -1,0 +1,28 @@
+[{
+        "nombre": "Geolocalizacion",
+        "ruta": "/geolocalizacion",
+        "icono": "location-outline",
+        "color": "success"
+    },
+    {
+        "nombre": "Escanear",
+        "ruta": "/escanear",
+        "icono": "scan-outline",
+        "color": "dark"
+    }, {
+        "nombre": "Llamar",
+        "ruta": "/llamar",
+        "icono": "call-outline",
+        "color": "danger"
+    }, {
+        "nombre": "Compartir",
+        "ruta": "/compartir",
+        "icono": "share-social-outline",
+        "color": "tertiary"
+    }, {
+        "nombre": "Camara",
+        "ruta": "/camara",
+        "icono": "camera-outline",
+        "color": "medium"
+    }
+]

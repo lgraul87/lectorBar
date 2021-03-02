@@ -1,5 +1,8 @@
 {
   "name": "lectorBar",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
   "type": "angular"
 }
